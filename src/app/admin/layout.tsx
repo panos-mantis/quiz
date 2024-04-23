@@ -4,7 +4,7 @@ interface LayoutProps {
     children: ReactNode
 }
 
-export const Layout = (props: LayoutProps) =>{
+ const Layout = (props: LayoutProps) =>{
 
     return(
         <>
